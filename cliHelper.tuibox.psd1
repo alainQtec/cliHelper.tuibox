@@ -104,7 +104,7 @@
       ProjectUri   = 'https://github.com/Alain%20Herve/cliHelper.tuibox'
 
       # A URL to an icon representing this module.
-      IconUri      = 'https://github.com/user-attachments/assets/1220c30e-a309-43c3-9a80-1948dae30e09'
+      IconUri      = 'https://github.com/user-attachments/assets/29028591-0165-4bea-8dfb-18e25392cabc'
 
       # ReleaseNotes of this module
       ReleaseNotes = '# Release Notes
